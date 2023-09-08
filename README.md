@@ -43,17 +43,21 @@ In addition to the database, we retained a cleaned CSV version of the dataset na
 -------------------------------------------------------------------------------------------------------------------------------
 
 ## Citations
+
 We would like to acknowledge the valuable assistance we received from the Stack Overflow community. In particular, we found the following Stack Overflow thread extremely helpful in learning how to iterate through rows in a Pandas DataFrame:
 
-Stack Overflow Thread: How to Iterate Over Rows in a DataFrame in Pandas
+- [Stack Overflow Thread: How to Iterate Over Rows in a DataFrame in Pandas](https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas)
+
+We express our gratitude to the contributors of this thread for sharing their knowledge and expertise, which greatly contributed to the success of our data cleaning project.
 
 We also acknowledge the article titled "Measurement Problems: Sorting Products" by [Author Name] on [Source URL] for providing insights into the calculation of a weighted rating based on vote_count and vote_average.
 
-Source: Measurement Problems: Sorting Products
+Source: [Measurement Problems: Sorting Products](https://python.plainenglish.io/measurement-problems-sorting-products-fea8f9804d97)
 
 Additionally, we learned how to pop multiple columns from a Pandas DataFrame and place them elsewhere from the following Stack Overflow thread:
 
-Stack Overflow Thread: How do you pop multiple columns off a Pandas DataFrame into a new DataFrame?
+- [Stack Overflow Thread: How do you pop multiple columns off a Pandas DataFrame into a new DataFrame?](https://stackoverflow.com/questions/49329569/how-do-you-pop-multiple-columns-off-a-pandas-dataframe-into-a-new-dataframe)
 
 We extend our gratitude to the contributors and the Stack Overflow community for sharing their expertise and knowledge, which greatly facilitated our data manipulation tasks in this project.
+
 
