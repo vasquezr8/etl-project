@@ -35,9 +35,10 @@ In this project, our main focus was on data cleaning tasks. We carefully cleaned
 In addition to the database, we retained a cleaned CSV version of the dataset named "movies_data.csv" in UTF-8 encoding without an index for your convenience.
 
 ## Contributors
-- GitHub Profile of Adalbert Payan
-- GitHub Profile of Fpolus
-- GitHub Profile of vasquezr8
+- [Adalbert Payan](https://github.com/AdalbertPayan)
+- [Fpolus](https://github.com/Fpolus)
+- [vasquezr8](https://github.com/vasquezr8)
+
 
 -------------------------------------------------------------------------------------------------------------------------------
 
