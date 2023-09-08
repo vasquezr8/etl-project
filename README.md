@@ -17,31 +17,31 @@ Welcome to our Movie Data Cleaning and Database Import Project! In this project,
 
 To get started with this project, you will need Python, the Pandas library, and an SQLite database management tool like DB Browser for SQLite installed. You can install Pandas using pip:
 
-```bash
+## bash
 pip install pandas
 
-Data Cleaning
+## Data Cleaning
 In this project, our main focus was on data cleaning tasks. We carefully cleaned and prepared the dataset by:
 
-Extracting relevant information from JSON columns.
-Reordering and renaming columns for better readability.
-Handling missing or inconsistent data.
-Converting data types to their appropriate formats.
-Making sure the dataset is ready for future analysis.
-Loading Data into an SQLite Database
-After completing the data cleaning process, we loaded the cleaned dataset into an SQLite database. This step allows for more efficient data retrieval and querying for future analysis. You can access the database using an SQLite database management tool of your choice.
+- Extracting relevant information from JSON columns.
+- Reordering and renaming columns for better readability.
+- Handling missing or inconsistent data.
+- Converting data types to their appropriate formats.
+- Making sure the dataset is ready for future analysis.
+- Loading Data into an SQLite Database
+- After completing the data cleaning process, we loaded the cleaned dataset into an SQLite database. This step allows for more efficient data retrieval and querying for future analysis. You can access the database using an SQLite - database management tool of your choice.
 
-Exporting Cleaned Data
+## Exporting Cleaned Data
 In addition to the database, we retained a cleaned CSV version of the dataset named "movies_data.csv" in UTF-8 encoding without an index for your convenience.
 
-contributors
+## Contributors
 - GitHub Profile of Adalbert Payan
 - GitHub Profile of Fpolus
 - GitHub Profile of vasquezr8
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-Citations
+## Citations
 We would like to acknowledge the valuable assistance we received from the Stack Overflow community. In particular, we found the following Stack Overflow thread extremely helpful in learning how to iterate through rows in a Pandas DataFrame:
 
 Stack Overflow Thread: How to Iterate Over Rows in a DataFrame in Pandas
@@ -55,4 +55,4 @@ Additionally, we learned how to pop multiple columns from a Pandas DataFrame and
 Stack Overflow Thread: How do you pop multiple columns off a Pandas DataFrame into a new DataFrame?
 
 We extend our gratitude to the contributors and the Stack Overflow community for sharing their expertise and knowledge, which greatly facilitated our data manipulation tasks in this project.
-```
+
