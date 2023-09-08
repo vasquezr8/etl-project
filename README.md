@@ -48,8 +48,6 @@ We would like to acknowledge the valuable assistance we received from the Stack 
 
 - [Stack Overflow Thread: How to Iterate Over Rows in a DataFrame in Pandas](https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas)
 
-We express our gratitude to the contributors of this thread for sharing their knowledge and expertise, which greatly contributed to the success of our data cleaning project.
-
 We also acknowledge the article titled "Measurement Problems: Sorting Products" by [Author Name] on [Source URL] for providing insights into the calculation of a weighted rating based on vote_count and vote_average.
 
 Source: [Measurement Problems: Sorting Products](https://python.plainenglish.io/measurement-problems-sorting-products-fea8f9804d97)
