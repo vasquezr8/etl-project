@@ -1,5 +1,3 @@
-# group-project-2
-
 # Movie Data Cleaning and Database Import Project
 
 Welcome to our Movie Data Cleaning and Database Import Project! In this project, we have meticulously cleaned and prepared the "tmdb_5000_movies.csv" dataset, ensuring it is ready for further analysis. Additionally, we loaded the cleaned data into an SQLite database for easier access and querying. We used the Python programming language, Pandas library for data cleaning, and SQLite for data storage.
